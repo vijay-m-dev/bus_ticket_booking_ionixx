@@ -1,4 +1,4 @@
-#importing cx_oracle
+#importing cx_Oracle
 import cx_Oracle
 #Making connection
 con=cx_Oracle.connect("system/needforspeed@127.0.0.1/XE")
